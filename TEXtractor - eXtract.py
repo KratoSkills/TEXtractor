@@ -13,9 +13,11 @@ def output_file(filename, data):
 	file.close()
 
 def main():
-	data = process_image("Coursera Python for Everybody SPECIALIZATION.jpg", "eng")
+	filepath = input("Enter filepath: ")
+	img = Image.open(filepath)
+	data = process_image(img, "eng")
 	print_data(data)
-	output_file("Coursera Python for Everybody SPECIALIZATION.txt", data)
+	output_file(filepath + ".txt", data)
 
 if  __name__ == '__main__':
 	main()
