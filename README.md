@@ -21,7 +21,7 @@
 2. Download the [dataset source files](https://anonfiles.com/PeP2Vay7y5/emnist_source_files_rar).
 3. Run "TEXtractor - Build.py" using the specified version of Python 3 to train your own TEXtractor
     OR
-   use prebuild TEXtractor, "[TEXtractor - Model.h5](https://anonfiles.com/vb71V1y5y3/TEXtractor_-_Model_h5)".
+   use pretrained TEXtractor, "[TEXtractor - Model.h5](https://anonfiles.com/vb71V1y5y3/TEXtractor_-_Model_h5)".
 4. Once TEXTractor is build, use it to extract text from images using "TEXtractor - eXtract.py"
 
 ### References
