@@ -3,7 +3,6 @@
 ### Model description
 - This is a Machine Learning model which extracts text from images, pdf and documents.
 - Developed using Keras in Python 3, this program uses Convolutional Neural Network for Optical Character Recognition (OCR).
-- Can be very useful in Digital Forensics.
 
 ### Dataset
 - [NIST Special Database 19](https://www.nist.gov/srd/nist-special-database-19)
