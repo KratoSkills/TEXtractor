@@ -27,7 +27,7 @@
 2. Download the [dataset source files](https://github.com/KratoSkills/TEXtractor/releases/download/TEXtractor/emnist_source_files.rar).
 3. Run "TEXtractor - Build.py" using the specified version of Python 3 to train your own TEXtractor
     OR
-   use pretrained TEXtractor, "[TEXtractor - Model](https://github.com/KratoSkills/TEXtractor/releases/download/TEXtractor/TEXtractor.-.Model.h5)".
+   use [pretrained TEXtractor](https://github.com/KratoSkills/TEXtractor/releases/download/TEXtractor/TEXtractor.-.Model.h5)".
 4. You can check TEXTractor's Accuracy on test dataset and also few pre-plotted predictions in "TEXtractor - Tester.ipynb"
 5. Done! Use the model as pleased following the Guidelines of Apache License 2.0
 
