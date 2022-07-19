@@ -24,7 +24,7 @@
 
 ### Usage
 1. Install the prerequisite tools.
-2. Download the [dataset source files](https://anonfiles.com/PeP2Vay7y5/emnist_source_files_rar).
+2. Download the [dataset source files](https://github.com/KratoSkills/TEXtractor/releases/download/TEXtractor/emnist_source_files.rar).
 3. Run "TEXtractor - Build.py" using the specified version of Python 3 to train your own TEXtractor
     OR
    use pretrained TEXtractor, "[TEXtractor - Model.h5](https://github.com/KratoSkills/TEXtractor/releases/download/TEXtractor/TEXtractor.-.Model.h5)".
