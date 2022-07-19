@@ -27,7 +27,7 @@
 2. Download the [dataset source files](https://anonfiles.com/PeP2Vay7y5/emnist_source_files_rar).
 3. Run "TEXtractor - Build.py" using the specified version of Python 3 to train your own TEXtractor
     OR
-   use pretrained TEXtractor, "[TEXtractor - Model.h5](https://anonfiles.com/vb71V1y5y3/TEXtractor_-_Model_h5)".
+   use pretrained TEXtractor, "[TEXtractor - Model.h5](https://github.com/KratoSkills/TEXtractor/releases/download/TEXtractor/TEXtractor.-.Model.h5)".
 4. You can check TEXTractor's Accuracy on test dataset and also few pre-plotted predictions in "TEXtractor - Tester.ipynb"
 5. Done! Use the model as pleased following the Guidelines of Apache License 2.0
 
