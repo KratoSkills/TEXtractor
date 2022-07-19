@@ -9,12 +9,14 @@
 - [EMNIST (Extended MNIST)](https://www.kaggle.com/datasets/crawford/emnist)
 
 ### Extra toolkits
-- A python script to use the TEXtractor.
+- A python script, "TEXtractor - eXtract.py", to use the TEXtractor for easy extraction of text from images, pdf and documents will be released in future.
+- Any contribution for building "TEXtractor - eXtract.py" or to improve the model are welcome.
 
 ### Prerequisites
 - Tested on [Python 3](https://www.python.org/) >= 3.9.12
-- [Tesseract](https://github.com/tesseract-ocr/tessdoc) for Python 3 (pytesseract): `pip3 install pytesseract`
 - Keras for Python 3: `pip3 install keras`
+- Numpy: `pip3 install numpy`
+- Sklearn (Optional): `pip3 install sklearn`
 
 ### Usage
 1. Install the prerequisite tools.
@@ -22,7 +24,8 @@
 3. Run "TEXtractor - Build.py" using the specified version of Python 3 to train your own TEXtractor
     OR
    use pretrained TEXtractor, "[TEXtractor - Model.h5](https://anonfiles.com/vb71V1y5y3/TEXtractor_-_Model_h5)".
-4. Once TEXTractor is build, use it to extract text from images using "TEXtractor - eXtract.py"
+4. You can check TEXTractor's Accuracy on test dataset and also few pre-plotted predictions in "TEXtractor - Tester.ipynb"
+5. Done! Use the model as pleased following the Guidelines of Apache License 2.0
 
 ### References
 - https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
