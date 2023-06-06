@@ -1,8 +1,8 @@
 # TEXtractor
 
 ### Model description
-- This is a Machine Learning model which extracts text from images, pdf and documents.
-- Developed using Keras in Python 3, this program uses Convolutional Neural Network for Optical Character Recognition (OCR).
+- This is a Machine Learning model which recognizes handwritten text in images.
+- Developed using Keras framework for Python 3, this program uses Convolutional Neural Network (CNN) for Optical Character Recognition (OCR).
 
 ### Dataset
 - [NIST Special Database 19](https://www.nist.gov/srd/nist-special-database-19)
